@@ -1,0 +1,151 @@
+CustomerID,FirstName,LastName,Gender,Age,City,State,Segment
+1,Jacob,Sellers,F,60,Mariaberg,Wshngtn,Home Office
+2,Joshua,Johnson,M,40,Johnsonfurt,Wshngtn,Home Office
+3,Jesse,Berger,O,41,Lake Ashlee,Cliforna,Corporate
+4,Amanda,Mann,O,69,Fullerland,CA,Consumer
+5,Diane,Rasmussen,F,58,East Suzanne,Cliforna,Consumer
+6,Dawn,Wells,F,40,Lisashire,CA,Corporate
+7,Mark,Hanson,F,70,Carterfort,Cliforna,Home Office
+8,Krystal,Taylor,F,60,South Jilltown,WA,Home Office
+9,Amanda,Gordon,O,68,Hillhaven,CA,Home Office
+10,Christina,Thornton,F,42,East James,OR,Corporate
+11,Jesse,Ramos,O,38,Lake Ryanville,,Consumer
+12,Lisa,Stone,F,73,Mooreport,Wshngtn,Comsumer
+13,Janice,Willis,M,69,Christophermouth,OR,Corporate
+14,Phillip,Davis,F,37,Deanchester,OR,Corporate
+15,Mark,Scott,M,59,Porterview,CA,Home Office
+16,Dustin,Cardenas,O,53,Lake Kristinastad,OR,Corporate
+17,Amy,Rodriguez,F,69,South Keith,WA,Corporate
+18,Hannah,Webb,O,42,Port Jonathan,Wshngtn,Corporate
+19,Mark,Rodriguez,F,66,Port Sarah,,Corporate
+20,Mary,Davis,O,53,Lake Annette,WA,Home Office
+21,Madison,Harper,O,73,East Marcus,CA,Comsumer
+22,Katie,Woods,F,48,New Edwardport,CA,Corporate
+23,Travis,Arroyo,M,28,West Williamview,,
+24,Sharon,Williams,F,70,South Susan,WA,Consumer
+25,Brian,Blair,O,46,South Edwardfurt,Cliforna,
+26,Jason,Patton,M,61,Port Krista,WA,Corporate
+27,Michael,Smith,M,69,Fergusonside,Cliforna,Consumer
+28,Valerie,Turner,O,66,North Dawn,CA,Consumer
+29,George,Berg,O,36,Lake Charlesside,CA,
+30,Amanda,Keller,M,45,Whiteton,WA,
+31,Ryan,Pittman,F,23,Ritaborough,WA,Home Office
+32,Nicholas,Farmer,M,65,North Terryview,WA,Home Office
+33,Ian,Phillips,M,24,Michelechester,CA,Corporate
+34,Cristian,Williams,M,34,Port Alisonmouth,WA,Comsumer
+35,Carmen,Johnson,O,19,Webbside,OR,
+36,Jared,Lyons,F,32,West Kimberlymouth,WA,Consumer
+37,Jonathan,Anderson,F,72,Shieldsfort,OR,Comsumer
+38,Julie,Chavez,O,73,East Jasonside,OR,Comsumer
+39,Michael,Clark,M,32,Thomasshire,Wshngtn,
+40,Ashley,Robbins,O,53,West Dennis,Wshngtn,Home Office
+41,Andrew,Tapia,O,28,North Robertfurt,OR,Corporate
+42,Victor,Glenn,M,32,Lake Jamesview,CA,Home Office
+43,Gregory,Paul,O,57,South Kim,OR,Comsumer
+44,Leonard,Harris,M,32,Jonstad,Wshngtn,Home Office
+45,Joseph,Sullivan,M,61,West Kevinberg,Cliforna,Home Office
+46,Andre,Winters,M,28,New Heather,WA,Corporate
+47,Samantha,Jones,O,35,West Matthewmouth,CA,Corporate
+48,Megan,Miller,M,36,Mccarthyview,Wshngtn,Consumer
+49,Caroline,Welch,F,50,East Joel,WA,Home Office
+50,Chris,Tyler,M,53,Hicksport,OR,
+51,James,Montgomery,F,34,New Stacy,OR,Corporate
+52,Brenda,Roth,F,32,Port Jamesport,WA,Corporate
+53,Jason,Arnold,M,69,New Zacharyfurt,Cliforna,Comsumer
+54,Sean,Taylor,O,52,Carterburgh,CA,Consumer
+55,Ryan,Campbell,F,49,West Kimberlyland,WA,Comsumer
+56,Diane,Ramos,M,33,New Kimberlyshire,Cliforna,Consumer
+57,Cody,Gardner,O,30,Josephmouth,OR,Comsumer
+58,Michael,Hernandez,F,34,East Emmamouth,Wshngtn,Comsumer
+59,Larry,Carter,M,47,South Sharonborough,,Home Office
+60,Christine,Lewis,O,40,New Benjaminhaven,Cliforna,Comsumer
+61,Chris,Brown,M,62,Davisport,OR,Comsumer
+62,Karen,Norman,M,67,Abbottbury,Cliforna,Consumer
+63,Sandra,Richardson,O,75,Lake Kevinchester,CA,Corporate
+64,Steven,Jensen,F,43,West Janetton,CA,Consumer
+65,Charles,Richardson,O,30,Lake Douglasview,Wshngtn,Corporate
+66,Chad,Lang,O,62,Robertsland,Wshngtn,Corporate
+67,Corey,Stokes,M,19,Johnsonmouth,WA,Consumer
+68,Rita,Villanueva,M,65,Donnastad,Cliforna,Home Office
+69,Christopher,Castaneda,O,45,Crawfordside,CA,Comsumer
+70,Kristie,Leon,M,51,Anthonyville,,Home Office
+71,Randall,Vazquez,F,44,Harrisonborough,Cliforna,Home Office
+72,Vickie,Nelson,F,23,Johnside,,Corporate
+73,Philip,Giles,O,50,Millerview,Wshngtn,Comsumer
+74,Meredith,Brown,M,55,Dawnborough,,Consumer
+75,Tyler,Bradley,M,66,Barbarachester,CA,Comsumer
+76,Ashlee,Green,M,60,Riosport,Cliforna,Corporate
+77,Alexa,Ortiz,M,55,Browningmouth,Wshngtn,Consumer
+78,James,Ross,O,58,Brandonmouth,OR,Corporate
+79,Sara,Fleming,O,57,Lake Traceyhaven,WA,Home Office
+80,Anne,Hatfield,O,50,Emilyfort,WA,Home Office
+81,Melissa,Thompson,O,44,Robertside,Cliforna,Home Office
+82,Samantha,Bryant,M,19,Fullerfurt,WA,Consumer
+83,Michael,Gutierrez,O,52,Hallmouth,,Consumer
+84,Miranda,Smith,M,37,Grahamville,WA,Corporate
+85,John,Ward,O,36,Maureenshire,OR,Comsumer
+86,Derek,Bailey,M,58,Jonesport,CA,Comsumer
+87,Kenneth,Stevens,F,26,Sarahaven,CA,Comsumer
+88,Hannah,Carter,M,37,North Jeffreyshire,OR,Corporate
+89,Nicholas,Watkins,O,66,Port Elizabeth,WA,Consumer
+90,Tyler,Sampson,M,70,Melissafort,Cliforna,Comsumer
+91,Sally,Dominguez,F,35,South Michaeltown,Cliforna,Corporate
+92,Robyn,Warren,F,20,Smithfort,WA,Corporate
+93,Marcus,White,F,25,Katrinaside,OR,Home Office
+94,Jacob,Scott,F,48,Francesstad,WA,Home Office
+95,Walter,Johnson,M,38,North Kurt,WA,
+96,Eric,Smith,M,64,New Jennifer,CA,Consumer
+97,Emily,Miller,M,61,West Ericton,Wshngtn,Home Office
+98,Monica,Fleming,M,60,North Aprilborough,Cliforna,Consumer
+99,Joseph,Walker,O,25,North Alanton,CA,Comsumer
+100,Bethany,Mccarthy,O,49,Port Katherineton,,Comsumer
+101,Teresa,Mitchell,M,22,Michaelton,OR,Consumer
+102,Michael,Alvarez,O,38,New Christopherfurt,,Home Office
+103,Elizabeth,Gonzales,O,27,Taylorshire,OR,Consumer
+104,Judith,Martinez,O,63,New Luke,,Home Office
+105,Andrea,Miller,O,60,Lake Mia,OR,Home Office
+106,Nicole,Morris,M,32,North Christopher,CA,Home Office
+107,Carol,Anderson,O,26,Lake Nicole,Cliforna,Consumer
+108,Ryan,Garcia,O,50,Hendersonborough,WA,
+109,Juan,Gilmore,O,72,Port Amytown,Wshngtn,Consumer
+110,David,Mcdowell,M,53,Danieltown,Cliforna,Comsumer
+111,Christopher,Hays,M,32,North Alexander,WA,
+112,Eric,Bowers,F,64,Port Shawnhaven,CA,Home Office
+113,Cynthia,Rose,M,44,New James,CA,Corporate
+114,Erica,Arnold,M,60,New Christopherberg,WA,Comsumer
+115,Reginald,Meadows,O,60,East Selenafort,OR,Consumer
+116,Christopher,Collins,O,19,South Jeffreytown,OR,Comsumer
+117,Tammy,Boyer,M,72,Andersonmouth,CA,Home Office
+118,Christina,Lyons,M,46,Port Melanietown,WA,Corporate
+119,Gregory,Anderson,O,24,South Nathan,WA,Corporate
+120,Robert,Acosta,O,57,Lake Kaylafort,CA,Comsumer
+121,Jennifer,West,F,75,Ericmouth,OR,Home Office
+122,Nichole,Harris,M,33,Richardville,OR,Consumer
+123,Miranda,Benton,F,70,New Jenniferchester,WA,Consumer
+124,Gina,Suarez,F,23,Woodville,Cliforna,Consumer
+125,Susan,Ross,O,21,West Leslieview,Cliforna,
+126,Alyssa,Russell,F,37,Lake Devin,CA,Comsumer
+127,Robert,Wood,M,65,Jonestown,,Home Office
+128,Dawn,Eaton,O,66,Maddoxbury,Wshngtn,Consumer
+129,Julie,Daniels,F,68,West Dillon,Cliforna,Corporate
+130,Cindy,Lamb,M,64,Greenechester,WA,Corporate
+131,Rachel,Foster,O,43,Buchananshire,Cliforna,Home Office
+132,Angela,Lee,O,72,Nguyenmouth,CA,Corporate
+133,Ashley,Jenkins,O,75,Lawrencefurt,CA,
+134,Scott,Barrett,M,22,Port Cody,CA,Corporate
+135,Stephanie,Johnston,M,28,Stephentown,CA,Corporate
+136,Geoffrey,Long,F,29,Gonzalezchester,,Home Office
+137,Frederick,Vasquez,O,63,Jenningsfort,Wshngtn,Consumer
+138,Sandra,Hopkins,F,53,North Amyport,WA,Comsumer
+139,Ashley,Baker,F,30,South Dianaport,WA,Comsumer
+140,Brian,Morales,F,65,South Kevinburgh,,Consumer
+141,James,Floyd,O,33,Chungburgh,Wshngtn,Consumer
+142,Victoria,Miller,O,48,West Williamview,CA,Corporate
+143,Jeffrey,Watts,F,29,South Adam,Cliforna,Home Office
+144,Brian,Campbell,F,63,Lake Sheila,CA,Consumer
+145,Jacob,Jordan,M,26,Karastad,WA,Home Office
+146,Lindsey,Morales,O,69,Jasonburgh,Cliforna,Comsumer
+147,Rebecca,Johnson,O,32,West Carla,CA,Comsumer
+148,Jennifer,Morris,O,29,Martinville,Wshngtn,
+149,Brian,Nielsen,M,47,Jasonmouth,Wshngtn,Comsumer
+150,Dawn,Patel,M,65,Riverastad,Cliforna,Comsumer
