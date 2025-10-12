@@ -75,6 +75,6 @@ WITH (
 GO
 
 
-SELECT COUNT(*) FROM [dbo].[DimCustomer];
-SELECT COUNT(*) FROM [dbo].[DimProduct];
-SELECT COUNT(*) FROM [dbo].[FactOrders];
+SELECT COUNT(*) AS 'DimCustomerCount' FROM [dbo].[DimCustomer];
+SELECT COUNT(*) AS 'DimProductCount' FROM [dbo].[DimProduct];
+SELECT COUNT(*) AS 'FactOrdersCount' FROM [dbo].[FactOrders];
