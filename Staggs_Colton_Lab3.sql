@@ -75,6 +75,6 @@ WITH (
 GO
 
 
-SELECT TOP 10 * FROM [dbo].[DimCustomer];
-SELECT TOP 10 * FROM [dbo].[DimProduct];
-SELECT TOP 10 * FROM [dbo].[FactOrders];
+SELECT COUNT(*) FROM [dbo].[DimCustomer];
+SELECT COUNT(*) FROM [dbo].[DimProduct];
+SELECT COUNT(*) FROM [dbo].[FactOrders];
