@@ -55,8 +55,8 @@ GO
 CREATE TABLE [dbo].[FactOrders]
 (
 	OrderID int NOT NULL PRIMARY KEY,
-	CustomerKey int FOREIGN KEY REFERENCES DimCustomer(CustomerID),
-	ProductKey int FOREIGN KEY REFERENCES DimProduct(ProductID),
+	CustomerKey int FOREIGN KEY REFERENCES [dbo].[DimCustomer](CustomerID),
+	ProductKey int FOREIGN KEY REFERENCES [dbo].[DimProduct](ProductID),
 	Quantity int NOT NULL,
 	OrderAmount MONEY NOT NULL
 );
