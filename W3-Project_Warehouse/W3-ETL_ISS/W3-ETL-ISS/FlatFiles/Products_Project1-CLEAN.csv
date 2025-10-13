@@ -1,0 +1,151 @@
+ProductID,ProductName,Category,Price
+1,Call 865,Unknown,124.91
+2,Truth 306,Electronics,916.64
+3,Management 741,Furniture,673.73
+4,Team 470,Furniture,689.27
+5,Perhaps 594,Electronics,883.4
+6,Few 937,Home Appliances,898.91
+7,Head 154,Furniture,528.73
+8,Term 882,Home Appliances,518.55
+9,Teach 594,Electronics,22.67
+10,Argue 623,Home Appliances,409.58
+11,Huge 306,Home Appliances,964
+12,Common 356,Electronics,817.22
+13,Conference 136,Electronics,0
+14,Day 386,Electronics,639.23
+15,Word 494,Home Appliances,204.82
+16,Cultural 881,Home Appliances,203.87
+17,Someone 398,Home Appliances,518.43
+18,Stock 114,Furniture,117.79
+19,Yes 930,Unknown,298.61
+20,Hope 991,Home Appliances,479.28
+21,Have 216,Furniture,675.13
+22,Wish 535,Furniture,494.05
+23,Try 457,Electronics,161.34
+24,Concern 341,Electronics,12.3
+25,Blue 151,Furniture,788.68
+26,Practice 791,Furniture,957.82
+27,Reflect 908,Home Appliances,347.54
+28,International 111,Unknown,758.39
+29,Part 149,Furniture,71.23
+30,Health 689,Electronics,447.02
+31,Heavy 967,Home Appliances,248.79
+32,Economy 700,Furniture,224.07
+33,Him 877,Electronics,196.99
+34,College 264,Furniture,584.79
+35,Himself 995,Unknown,239.8
+36,Prevent 533,Home Appliances,102.22
+37,Chair 398,Electronics,672.55
+38,Thing 304,Furniture,536.58
+39,Perform 730,Furniture,0
+40,Away 433,Unknown,0
+41,With 619,Furniture,959.16
+42,Return 293,Electronics,77.7
+43,Agency 666,Furniture,498.61
+44,Behind 877,Electronics,664.35
+45,Everything 672,Home Appliances,142.66
+46,Community 876,Furniture,852.86
+47,Human 421,Home Appliances,477.99
+48,Responsibility 393,Electronics,749.8
+49,Information 447,Electronics,75.86
+50,Party 519,Electronics,404.07
+51,Job 590,Home Appliances,225.93
+52,Level 729,Furniture,721.84
+53,Read 389,Furniture,751.48
+54,Onto 545,Electronics,649.78
+55,Thank 530,Furniture,74.01
+56,Go 525,Home Appliances,355.2
+57,Just 606,Electronics,465.54
+58,Range 563,Furniture,923.34
+59,Ready 593,Electronics,495.21
+60,Tv 445,Electronics,749.29
+61,Through 976,Furniture,538.6
+62,Plant 392,Electronics,781.28
+63,Almost 963,Home Appliances,828.72
+64,Behind 770,Home Appliances,845.59
+65,Land 473,Home Appliances,50.73
+66,She 312,Unknown,846.51
+67,Authority 617,Furniture,134.41
+68,Cost 656,Home Appliances,985.55
+69,Under 926,Electronics,968.31
+70,Strong 214,Furniture,698.88
+71,West 627,Home Appliances,480.68
+72,There 372,Home Appliances,677.92
+73,Able 558,Home Appliances,892.01
+74,Agree 427,Home Appliances,427.46
+75,State 186,Electronics,913.25
+76,Picture 726,Home Appliances,212.59
+77,Small 508,Electronics,174.67
+78,Century 589,Home Appliances,823.93
+79,Particularly 901,Electronics,135.44
+80,Recognize 961,Unknown,913.02
+81,Describe 379,Electronics,0
+82,Away 305,Home Appliances,772.81
+83,Team 443,Electronics,407.01
+84,Many 665,Unknown,0
+85,As 419,Furniture,88.64
+86,Another 980,Furniture,90.91
+87,Space 447,Furniture,930.06
+88,View 804,Furniture,751.74
+89,Standard 456,Furniture,98.86
+90,Other 928,Furniture,411.83
+91,Treat 534,Furniture,424.88
+92,Contain 957,Home Appliances,919.14
+93,Of 271,Home Appliances,872.02
+94,Write 855,Furniture,74.15
+95,Student 548,Electronics,897.05
+96,Loss 388,Furniture,984.42
+97,Example 117,Unknown,0
+98,Million 591,Electronics,905.1
+99,Range 358,Furniture,517.71
+100,Claim 365,Electronics,710.85
+101,Effort 295,Electronics,56.82
+102,Always 781,Unknown,705.62
+103,Represent 463,Electronics,724.14
+104,Politics 854,Home Appliances,458.15
+105,Newspaper 480,Furniture,976.46
+106,Site 576,Furniture,752.93
+107,Skin 389,Furniture,0
+108,Them 185,Electronics,0
+109,Need 773,Unknown,690.06
+110,Century 262,Furniture,643.03
+111,Interview 695,Furniture,538.86
+112,Choice 275,Electronics,775.51
+113,Picture 253,Electronics,587.3
+114,Truth 957,Electronics,0
+115,Environment 493,Electronics,531.12
+116,Think 755,Furniture,82.91
+117,Card 235,Unknown,219.49
+118,Pretty 625,Electronics,363.42
+119,Control 110,Home Appliances,670.88
+120,Executive 124,Electronics,422.63
+121,Lead 442,Electronics,133
+122,Clearly 121,Electronics,0
+123,Government 813,Electronics,776.14
+124,Actually 275,Home Appliances,43.67
+125,Difference 574,Home Appliances,225.04
+126,Enter 380,Electronics,522.81
+127,Whether 530,Electronics,830.8
+128,Eat 497,Unknown,898.86
+129,Effect 600,Furniture,300.02
+130,Officer 200,Furniture,0
+131,Capital 428,Electronics,0
+132,Traditional 743,Home Appliances,151.45
+133,Heavy 586,Electronics,299.04
+134,Admit 830,Unknown,436.5
+135,Audience 670,Electronics,425.56
+136,No 886,Electronics,93.33
+137,Sell 111,Furniture,416.39
+138,Wait 115,Furniture,632.96
+139,Others 561,Furniture,481.96
+140,Power 671,Furniture,615.36
+141,Government 496,Furniture,749.17
+142,Alone 512,Home Appliances,608.18
+143,Board 620,Furniture,95.07
+144,Go 408,Furniture,624.82
+145,Building 366,Electronics,453.14
+146,Stage 937,Home Appliances,885.86
+147,Nice 488,Electronics,396.29
+148,Five 632,Electronics,0
+149,Else 386,Electronics,196.72
+150,Across 533,Electronics,0
