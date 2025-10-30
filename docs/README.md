@@ -1,8 +1,12 @@
 # IT420
 
+## Week 5
+
+1. Reflection is in the memo
+
 ## Week 3
 
-1. "Unspecifed ERROR"
+1. Never figured out data, instead started from a snapshot of anothers data
 
 ![Star Schema](W3-Schema.png)
 ![Star Tables](W3-Tables.png)
