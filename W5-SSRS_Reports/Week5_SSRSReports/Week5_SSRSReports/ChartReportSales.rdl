@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.14.36603.0</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-10-30T23:48:19.6877374Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2025-10-31T01:43:23.4986525Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -117,6 +117,7 @@
                         <Color>#5c5c5c</Color>
                       </Style>
                     </ChartAxisTitle>
+                    <LabelInterval>=1</LabelInterval>
                     <ChartMajorGridLines>
                       <Enabled>False</Enabled>
                       <Style>
