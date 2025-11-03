@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <DataSet Name="DataSet1">
+    <Query>
+      <DataSourceReference>ClientWarehouseDS</DataSourceReference>
+      <DataSetParameters>
+        <DataSetParameter Name="@StartDate">
+          <ReadOnly>false</ReadOnly>
+          <Nullable>false</Nullable>
+          <OmitFromQuery>false</OmitFromQuery>
+          <rd:DbType>DateTime</rd:DbType>
+        </DataSetParameter>
+        <DataSetParameter Name="@EndDate">
+          <ReadOnly>false</ReadOnly>
+          <Nullable>false</Nullable>
+          <OmitFromQuery>false</OmitFromQuery>
+          <rd:DbType>DateTime</rd:DbType>
+        </DataSetParameter>
+        <DataSetParameter Name="@Region">
+          <ReadOnly>false</ReadOnly>
+          <Nullable>true</Nullable>
+          <OmitFromQuery>false</OmitFromQuery>
+          <rd:DbType>String</rd:DbType>
+        </DataSetParameter>
+      </DataSetParameters>
+      <CommandText>
+if @Region is NOT NULL
+
+select c.Region, p.Category, sum(f.TotalSaleAmount) as 'Total Sales' from FactSales f
+join DimCustomer c on f.CustomerKey = c.CustomerKey
+join DimProduct p on f.ProductKey = p.ProductKey
+where f.SaleDate between @StartDate and @EndDate
+and c.Region like @Region
+group by c.Region, p.Category
+
+else
+
+select c.Region, p.Category, sum(f.TotalSaleAmount) as 'Total Sales' from FactSales f
+join DimCustomer c on f.CustomerKey = c.CustomerKey
+join DimProduct p on f.ProductKey = p.ProductKey
+where f.SaleDate between @StartDate and @EndDate
+group by c.Region, p.Category</CommandText>
+    </Query>
+    <Fields>
+      <Field Name="Region">
+        <DataField>Region</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Category">
+        <DataField>Category</DataField>
+        <rd:TypeName>System.String</rd:TypeName>
+      </Field>
+      <Field Name="Total_Sales">
+        <DataField>Total Sales</DataField>
+        <rd:TypeName>System.Decimal</rd:TypeName>
+      </Field>
+    </Fields>
+  </DataSet>
+</SharedDataSet>
