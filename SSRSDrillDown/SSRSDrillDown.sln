@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36603.0 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSBrokenQuery", "SSRSBrokenQuery\SSRSBrokenQuery.rptproj", "{4CE1FB90-80EA-DF61-4169-0BD021D775E8}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSDrillDown", "SSRSDrillDown\SSRSDrillDown.rptproj", "{4CE1FB90-80EA-DF61-4169-0BD021D775E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,7 +9,7 @@
       <am:Name>SSDTRS</am:Name>
       <am:Version>17.14.36603.0</am:Version>
     </am:UpdatedBy>
-    <am:LastModifiedTimestamp>2025-11-03T07:49:49.2095564Z</am:LastModifiedTimestamp>
+    <am:LastModifiedTimestamp>2025-11-03T08:09:46.9609767Z</am:LastModifiedTimestamp>
   </am:AuthoringMetadata>
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
@@ -63,7 +63,7 @@
                   <TablixCells>
                     <TablixCell>
                       <CellContents>
-                        <Textbox Name="Textbox17">
+                        <Textbox Name="Textbox5">
                           <CanGrow>true</CanGrow>
                           <KeepTogether>true</KeepTogether>
                           <Paragraphs>
@@ -79,7 +79,7 @@
                               <Style />
                             </Paragraph>
                           </Paragraphs>
-                          <rd:DefaultName>Textbox17</rd:DefaultName>
+                          <rd:DefaultName>Textbox5</rd:DefaultName>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -118,6 +118,10 @@
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>TotalSales</rd:DefaultName>
+                          <Visibility>
+                            <Hidden>true</Hidden>
+                            <ToggleItem>Subcategory</ToggleItem>
+                          </Visibility>
                           <Style>
                             <Border>
                               <Color>LightGrey</Color>
@@ -396,8 +400,15 @@
                               <Group Name="Details" />
                             </TablixMember>
                           </TablixMembers>
+                          <Visibility>
+                            <Hidden>true</Hidden>
+                            <ToggleItem>Subcategory</ToggleItem>
+                          </Visibility>
                         </TablixMember>
                       </TablixMembers>
+                      <Visibility>
+                        <ToggleItem>Category</ToggleItem>
+                      </Visibility>
                     </TablixMember>
                   </TablixMembers>
                 </TablixMember>
@@ -448,7 +459,7 @@
         <Height>1.09375in</Height>
         <Style />
       </Body>
-      <Width>4.54042in</Width>
+      <Width>4.51in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>
