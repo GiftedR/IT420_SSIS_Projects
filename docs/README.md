@@ -1,5 +1,13 @@
 # IT420
 
+## Week 8
+
+1. When deciding what story to tell, I wanted to talk about customers by region. To accomplish this, I added the total sum as a standard card to the top. This is so the most important information is where you will first look. Next I added the customer count over time, this shows what recent actions created the most growth in the customer base. Next was the pie chart to show what region most of the customers currently reside in. This shows the order of importance with the data. You can also click on the chart to filter the customer over time by the region.
+
+_Couldnt find annotation_
+
+_Video Still In Progress, It Will Be Here When Done._
+
 ## Week 5
 
 1. Reflection is in the memo
