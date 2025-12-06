@@ -1,0 +1,3 @@
+# Reflection
+
+Dashboards differ from packets as dashboards are meant to consolidate data with the availability to filter or add more details. This is in contrast to packets which are fixed when they are made and are ofted just all the data without any consolidataion. I chose the KPI card to show the total sales vs the total product cost. I set the target to the product cost, so the highlighting reflects profits. Comparing gives a general idea of how the company is doing at a high level, and if it is trending upwards or downwards.
