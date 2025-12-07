@@ -6,6 +6,6 @@
 
 Artifact Folder _(This Folder)_
 
-[Presentation](Staggs-IT420_BI_Consulting_Portfolio.docx)
+[Presentation](https://youtu.be/2hdn4W7U7u8)
 
 [Reflection Memo](Reflection/Staggs_420_Reflection.docx)
